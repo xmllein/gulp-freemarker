@@ -1,0 +1,23 @@
+{
+  "root": {
+    "src": "./src",
+    "prod": "./dist",
+    "dev": "./dev",
+    "mock": "./mock"
+  },
+  "tasks": {
+    "html": {
+      "src": "html",
+      "dev": "",
+      "prod": "",
+      "extensions": ["html"],
+      "cdnUrl": "",
+      "htmlmin": {
+        "collapseWhitespace": true
+      }
+    },
+    "scss": {
+      "cdnUrl": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "file": "index.ftl",
+  "data": {
+    "id": 1,
+    "name": "hello freemarker",
+    "user": {
+      "name": "<p>xxx@#$@#$@#$</p>",
+      "gender": "male",
+      "age": 50000,
+      "address": "Shang Hai",
+      "type": 2
+    },
+    "dateTime": 1552295914984,
+    "users":[
+      {
+        "id":1,
+        "name":"helo",
+        "age": 200
+      },
+      {
+        "id": 2,
+        "name": "helox",
+        "age": 100
+      }
+    ]
+  }
+}
